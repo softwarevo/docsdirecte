@@ -15,7 +15,7 @@ Si vous repérez une erreur ou une information manquante, n'hésitez pas à [col
 L'URL de base pour toutes les requêtes est :
 `https://api.ecoledirecte.com/v3`
 
-La version documentée ici est la **v4.97.0**. Bien que des versions plus récentes puissent exister, les changements structurels majeurs sont rares. Cette documentation reste valide tant que la version v4.97.0 est supportée.
+La version documentée ici est la **v7.12.1**. Bien que des versions plus récentes puissent exister, les changements structurels majeurs sont rares. Cette documentation reste valide tant que la version v7.12.1 est supportée.
 
 ## 🛡️ User-Agent & Headers
 
@@ -23,7 +23,7 @@ L'utilisation d'un **User-Agent** valide est obligatoire pour chaque requête. S
 
 **Exemple de User-Agent recommandé :**
 ```
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+VotreApp/VersiondeVotreApp (iPhone; CPU iPhone OS 26_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E246  EDMOBILE v'7.12.1
 ```
 
 ## 📦 Format des requêtes
