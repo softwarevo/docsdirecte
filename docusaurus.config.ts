@@ -31,7 +31,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/softwarevo/docsdirecte/blob/',
+          editUrl: 'https://github.com/softwarevo/docsdirecte/blob/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
